@@ -37,6 +37,7 @@ This project is a complete pipeline for converting speech/audio into Indian Sign
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+   ```
 3.Run the full pipeline:
 
    ```bash
