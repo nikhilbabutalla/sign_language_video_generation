@@ -38,11 +38,11 @@ This project is a complete pipeline for converting speech/audio into Indian Sign
    ```bash
    pip install -r requirements.txt
    ```
-3.Run the full pipeline:
+3. Run the full pipeline:
 
    ```bash
    python app.py```
-4.Provide audio input and get ISL video output.
+4. Provide audio input and get ISL video output.
 
 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
